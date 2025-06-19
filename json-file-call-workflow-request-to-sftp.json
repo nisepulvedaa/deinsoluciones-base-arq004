@@ -1,0 +1,7 @@
+{
+    "cfg_wf": "workflow-arquetipo-request-to-sftp",
+    "cfg_proc": "process-{{nombre_proceso}}",
+    "ei_flag": "0"
+}
+
+
